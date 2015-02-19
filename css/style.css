@@ -1,3 +1,11 @@
 body {
     text-align: center;
 }
+
+div {
+	background-color: blue;
+}
+
+.panel {
+	background-color: blue;
+}
