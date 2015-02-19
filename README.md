@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+For this game, you are playing the part of villagers who need a safe way to cross the road and get to the river. The arrow keys will move your player in the four directions. Enemy bugs will capture your player if they meet up with him or her. But a new girl or boy from the village will appear to carry on the task. Scattered on the board are three magic gems. If you place them in a vertical line across the road, in the proper order, they will create a rainbow bridge that the villagers can use to cross safely over the bugs. You pick up or place gems by using the spacebar. If you have picked up a gem and place it where another gem is on the board, the one you have will be placed down and the new one will be picked up at the same time. The sequence that the gems need to be placed in to create the bridge changes each time you refresh the game. Don't be disappointed if you don't get it right the first few tries; there are only 6 possible ways to order the 3 gems, and it doesn't matter whether you place them to the left or right on the board as long as they are in a line top to bottom across the road and in the proper order. And don't forget to try out the bridge once you unlock it!
 
-for self-checking their submission.
+I wanted to add a control to adjust the speed and number of the bugs, and to restart the game, but this is as far as I'm going to get. I hope it's a little bit of fun!
